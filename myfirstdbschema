@@ -167,6 +167,9 @@
         <mxCell id="Xydm0C6gPgCqhExpK3_4-80" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Facilitates Access &amp;amp;&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Authentication&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;shadow=1;labelBackgroundColor=none;strokeColor=#60FFCD;" vertex="1" parent="1">
           <mxGeometry x="30" y="500" width="110" height="51" as="geometry" />
         </mxCell>
+        <mxCell id="Xydm0C6gPgCqhExpK3_4-83" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;ETL - Extraction, Transformation, Layering Process&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;labelBackgroundColor=none;strokeColor=#FFC943;" vertex="1" parent="1">
+          <mxGeometry x="510" y="660" width="290" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
